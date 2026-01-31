@@ -1,0 +1,5 @@
+Drop --> birth
+income, home_val, bluebook, oldclaim, clm_amt --> Float
+car_age --> Negative values
+gender, education, occupation, car_type --> remove z_
+yoj, income, home_val, occupation, car_age --> Missing Values
